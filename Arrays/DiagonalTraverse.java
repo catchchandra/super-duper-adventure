@@ -52,5 +52,7 @@ for (pos = 0; pos < m * n; pos++) {
         else { row++; col--; }
     }
 }
+return output;
+}
 
 */
