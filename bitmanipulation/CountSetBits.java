@@ -1,4 +1,4 @@
-//Brian Kernighan's Algorithm
+//Brian Kernighan's   Algorithm
 
 //The main idea behind this algorithm is that when we subtract one from any number, it inverts all the bits after the rightmost set bit
 
