@@ -2,7 +2,7 @@
 
 //The main idea behind this algorithm is that when we subtract one from any number, it inverts all the bits after the rightmost set bit
 
-class CountSetBit {
+class CountSetBits {
     private static int helper(int n) {
         int count = 0;
         while (n > 0) {
